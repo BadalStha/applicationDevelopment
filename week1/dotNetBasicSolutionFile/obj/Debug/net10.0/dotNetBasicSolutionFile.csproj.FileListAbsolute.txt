@@ -1,0 +1,14 @@
+C:\Users\animo\Documents\College\Application Development\week1\dotNetBasicSolutionFile\bin\Debug\net10.0\dotNetBasicSolutionFile.exe
+C:\Users\animo\Documents\College\Application Development\week1\dotNetBasicSolutionFile\bin\Debug\net10.0\dotNetBasicSolutionFile.deps.json
+C:\Users\animo\Documents\College\Application Development\week1\dotNetBasicSolutionFile\bin\Debug\net10.0\dotNetBasicSolutionFile.runtimeconfig.json
+C:\Users\animo\Documents\College\Application Development\week1\dotNetBasicSolutionFile\bin\Debug\net10.0\dotNetBasicSolutionFile.dll
+C:\Users\animo\Documents\College\Application Development\week1\dotNetBasicSolutionFile\bin\Debug\net10.0\dotNetBasicSolutionFile.pdb
+C:\Users\animo\Documents\College\Application Development\week1\dotNetBasicSolutionFile\obj\Debug\net10.0\dotNetBasicSolutionFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\animo\Documents\College\Application Development\week1\dotNetBasicSolutionFile\obj\Debug\net10.0\dotNetBasicSolutionFile.AssemblyInfoInputs.cache
+C:\Users\animo\Documents\College\Application Development\week1\dotNetBasicSolutionFile\obj\Debug\net10.0\dotNetBasicSolutionFile.AssemblyInfo.cs
+C:\Users\animo\Documents\College\Application Development\week1\dotNetBasicSolutionFile\obj\Debug\net10.0\dotNetBasicSolutionFile.csproj.CoreCompileInputs.cache
+C:\Users\animo\Documents\College\Application Development\week1\dotNetBasicSolutionFile\obj\Debug\net10.0\dotNetBasicSolutionFile.dll
+C:\Users\animo\Documents\College\Application Development\week1\dotNetBasicSolutionFile\obj\Debug\net10.0\refint\dotNetBasicSolutionFile.dll
+C:\Users\animo\Documents\College\Application Development\week1\dotNetBasicSolutionFile\obj\Debug\net10.0\dotNetBasicSolutionFile.pdb
+C:\Users\animo\Documents\College\Application Development\week1\dotNetBasicSolutionFile\obj\Debug\net10.0\dotNetBasicSolutionFile.genruntimeconfig.cache
+C:\Users\animo\Documents\College\Application Development\week1\dotNetBasicSolutionFile\obj\Debug\net10.0\ref\dotNetBasicSolutionFile.dll
